@@ -46,7 +46,7 @@ window.SITE = {
   heroImageMobile: "img/hero-m.webp",  // versão para celular (retrato). Vazio = usa a de desktop
   heroPosition: "center 60%",          // enquadramento no desktop
   heroPositionMobile: "45% center",    // enquadramento no celular
-  aboutImage: "",  // retrato do(a) fotógrafo(a)
+  aboutImage: "img/retrato_ale.jpg",  // retrato do(a) fotógrafo(a)
 
   /* ratio: tall | portrait (retrato) | wide (paisagem) | square — define o filtro de orientação
      src = foto grande (lightbox) | thumb = miniatura do grid | project = nome do projeto (opcional) */
